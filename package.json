@@ -1,0 +1,13 @@
+{
+  "name": "kos-form-antd",
+  "version": "1.0.0",
+  "keywords": [
+    "kos",
+    "kos-form",
+    "antd"
+  ],
+  "dependencies": {
+    "antd": "*",
+    "kos-form": "2.x"
+  }
+}
